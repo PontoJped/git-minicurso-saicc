@@ -19,7 +19,7 @@ export default function ProfileExample() {
                 <div className="absolute -bottom-6">
                   {/* Sua foto aqui: */}
                     <img
-                      src="https://picsum.photos/id/1005/1000"
+                      src="https://imagens.brasil.elpais.com/resizer/9k6AdYjOfEx_JhwENnMRHIzkimA=/980x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/WQGOZS5S7D3DCLWMVVJM7S5VAQ.jpg"
                       className="object-cover border-4 border-white w-40 h-40 rounded-full"
                       alt="cover"
                     />
@@ -28,14 +28,14 @@ export default function ProfileExample() {
               <div className="text-center mt-12">
                 {/* Seu nome aqui: */}
                 <h3 className="text-4xl font-semibold leading-normal mb-2 text-blueGray-700 mb-2">
-                  Herbert Richers
+                  Joao Pedro S. Schuch
                 </h3>
 
                 <div className="text-sm leading-normal mt-0 mb-2 text-blueGray-400 font-bold uppercase">
                   <MapOutlinedIcon style={{color: '#FDAE17'}}/>                                           
                   {/* Sua cidade aqui: */}
                   <span className="align-items-center" style={{marginLeft: '5px'}}>
-                    Rio Grande, RS
+                    Pelcity, RS
                   </span>
                 </div>
 
@@ -51,7 +51,7 @@ export default function ProfileExample() {
                   <SchoolOutlinedIcon style={{color: '#FDAE17'}}/>                        
                   {/* O curso aqui: */}
                   <span className="align-items-center" style={{marginLeft: '5px'}}>
-                    Oceonografia
+                    Engenharia de Computação; Arte das ruas
                   </span>
                 </div>
               </div>
@@ -61,9 +61,10 @@ export default function ProfileExample() {
                   <div className="w-full lg:w-9/12 px-4">                           
                     {/* Biografia aqui: */}
                     <p className="mb-4 text-lg leading-relaxed text-blueGray-700">
-                      Meu nome é Herbert Richers, nasci no Japão e encontrei meu lar no Rio Grande do Sul. Foi na Universidade Federal do Rio Grande onde cursei "Oceonografia".
-                      Hoje tenho 32 anos, sou professor e pesquisador na minha área de estudo. Sou pai de treze filhos e pra ter paz, procuro ficar horas vendo o carregamento e descarregamento de navios no Porto de Rio Grande.
-                      Minha vida é uma jornada de paixão pela arte e pelo oceano, por isso ajudei a dirigir a versão de anime do filme "Tubarão", de 1975.
+                    Então, me chamo João Pedro, e sou um jovem acadêmico de Engenharia de Computação que 
+                    leva a vida com um punhado de humor e muita determinação. Com meu amor por Muay Thai, 
+                    meu entusiasmo pela programação e minha lealdade inabalável ao café, eu sou realmente uma pessoa única. 
+                    Estou ansioso para ver a jornada brilhante que ele tem pela frente na UFGR e além!
                     </p>
                     <br/>
                     {/* Link para seu GitHub aqui: */}
